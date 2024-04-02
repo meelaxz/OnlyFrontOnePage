@@ -1,0 +1,64 @@
+.slogan{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 1380px;
+    background-color: #050827;
+}
+
+.sloganImage{
+    margin-left: 220px;
+}
+
+.descriptionSlogan{
+    width: 793px;
+    text-align: center;
+    color: white;
+    top: 160px;
+    left: 293px;
+    position: absolute;
+}
+
+.descriptionSlogan h4{
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.descriptionSlogan h3{
+    font-weight: normal;
+
+    margin-top: 28px;
+    font-size: 47px;
+}
+
+.descriptionSlogan h5{
+    font-weight: normal;
+
+    margin-top: 17px;
+    font-size: 15px;
+}
+
+.descriptionSlogan h4 h3 h5{
+    color: white;
+}
+
+.sloganButton{
+    text-transform: uppercase;
+    margin-top: 38px;
+    border: none;
+    width: 231px;
+    height: 33px;
+    background-color: #fff;
+    color: #1D1F2E;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 2;
+}
+
+.sloganButton:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: transform 0.3s linear;
+}

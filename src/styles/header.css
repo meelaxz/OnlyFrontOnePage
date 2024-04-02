@@ -1,0 +1,46 @@
+header{
+    width: 940px;
+    height: 80px;
+    display: flex;
+    color: black;
+    text-transform: uppercase;
+    align-items: center;
+    justify-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    justify-content: center;
+}
+
+nav a{
+    color: #1D1F2E;
+    margin-left: 30px;
+}
+
+.cart{
+    margin-left: 70px;
+    display: flex;
+}
+.Cart{
+    margin-left: 10px;
+}
+.numCart{
+    width: 20px;
+    height: 18px;
+    border-radius: 9px;
+    background-color: #1D1F2E;
+    margin-left: 10px;
+}
+.numCart p{
+    margin-top: 3.5px;
+    font-size: 11px;
+    text-align: center;
+    color: white;
+}
+.numCart:hover{
+    cursor: pointer;
+    opacity: 60;
+    transition: opacyty 2s linear;
+}

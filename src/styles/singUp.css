@@ -1,0 +1,72 @@
+.singUp{
+    padding-top: 80px;
+    width: 1380px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1D1F2E;
+    text-align: center;
+}
+
+.tireBlack{
+    width: 30px;
+    height: 2px;
+    background-color: #d2d2d5cb;
+}
+.textSingUp{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.textSingUp h3{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: normal;
+}
+.singUp h2{
+    margin-top: 15px;
+    font-size: 36px;
+    font-weight: normal;
+    color: #FFFFFF;
+}
+
+.inputValue{
+    padding-bottom: 85px;
+    height: 55px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 489px;
+    column-gap: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.inputValue input{
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: normal;
+    border: 1px solid rgb(116, 115, 115);
+    width: 350px;
+    height: 54px;
+    background-color: #1D1F2E;
+}
+
+.inputValue button{
+    width: 129px;
+    height: 54px;
+    border: none;
+    color: #000000;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}

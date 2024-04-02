@@ -1,0 +1,38 @@
+.description{
+    width: 658px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.description h3{
+    margin-top: 123px;
+    font-size: 28px;
+    font-weight: normal;
+}
+.description h4{
+    color: #1d1f2ecc;
+    margin-top: 18px;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 22px;
+}
+.descriptionA{
+    font-size: 15px;
+    font-weight: normal;
+    color: #A25F4B;
+}
+.underLine{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    width: 133px;
+    height: 3px;
+    background-color: #a25f4bb5;
+    transform: rotateX('10px');
+}
+.linkDescription:hover{
+    cursor: pointer;
+    transition: rotateX 0.5s ease;
+}

@@ -1,0 +1,64 @@
+.shoping{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    column-gap: 80px;
+}
+
+.img{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+}
+
+.textShoping{
+    width: 400px;
+}
+
+.textShoping p{
+    margin-top: 15px;
+    font-size: 12px;
+    color: #1D1F2E;
+}
+
+.textShoping h2{
+    font-size: 15px;
+    color: #1D1F2E;
+}
+
+.textShoping p{
+    font-size: 12;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.textShoping h2{
+    margin-top: 14px;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.textShoping h3{
+    margin-top: 25px;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.shopingButton{
+    margin-top: 35px;
+    width: 173px;
+    height: 35px;
+    color: white;
+    text-transform: uppercase;
+    background-color: #1D1F2E;
+}
+
+.imageImage{
+    width: 1440px;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}

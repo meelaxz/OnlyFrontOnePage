@@ -1,0 +1,33 @@
+.tovarCard1{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 960px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.tovarCard1 h3{
+    margin-top: 25px;
+    font-style: 20px;
+    color: #1D1F2E;
+    font-weight: normal;
+}
+.price{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.price p{
+    text-align: center;
+    margin-top: 5px;
+    font-style: 16px;
+    color: #1d1f2eab;
+    font-weight: normal;
+}
+.nonPrice{
+    margin-left: 10px;
+    color: #1d1f2eab;
+    text-decoration: line-through;
+}
